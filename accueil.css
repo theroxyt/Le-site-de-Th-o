@@ -1,0 +1,25 @@
+.titre-accueil 
+{
+color:aliceblue ;
+font-size: 60px ;
+font-family: "Roboto",sans-serif;
+text-align:center;
+text-decoration: underline;
+}
+body
+{
+background-color:rgb(113, 140, 146);
+}
+.texte
+{
+    margin-top: 150px;
+font-weight: 600;
+text-align: center;
+}
+.codage
+{
+    display: block;
+    margin: 10px auto;
+}
+.P2
+{font-style:italic}
