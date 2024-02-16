@@ -1,0 +1,28 @@
+body
+{
+background-color: coral;
+}
+.D1
+{
+font-family: "Protest Strike", sans-serif;
+text-align: center;
+margin-top:60px ;
+font-size:30px ;
+}
+.D2
+{
+font-family: "Ubuntu", sans-serif;
+
+}
+.poster
+{
+    width: 30% ;
+    
+}
+.container
+{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    flex-wrap: wrap;
+}
